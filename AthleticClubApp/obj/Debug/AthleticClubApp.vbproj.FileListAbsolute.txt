@@ -1,0 +1,15 @@
+c:\users\user\documents\visual studio 2015\Projects\AthleticClubApp\AthleticClubApp\bin\Debug\AthleticClubApp.exe.config
+c:\users\user\documents\visual studio 2015\Projects\AthleticClubApp\AthleticClubApp\obj\Debug\AthleticClubApp.Athlete.resources
+c:\users\user\documents\visual studio 2015\Projects\AthleticClubApp\AthleticClubApp\obj\Debug\AthleticClubApp.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\AthleticClubApp\AthleticClubApp\obj\Debug\AthleticClubApp.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\AthleticClubApp\AthleticClubApp\obj\Debug\AthleticClubApp.xml
+c:\users\user\documents\visual studio 2015\Projects\AthleticClubApp\AthleticClubApp\bin\Debug\AthleticClubApp.exe
+c:\users\user\documents\visual studio 2015\Projects\AthleticClubApp\AthleticClubApp\bin\Debug\AthleticClubApp.pdb
+c:\users\user\documents\visual studio 2015\Projects\AthleticClubApp\AthleticClubApp\bin\Debug\AthleticClubApp.xml
+c:\users\user\documents\visual studio 2015\Projects\AthleticClubApp\AthleticClubApp\obj\Debug\AthleticClubApp.exe
+c:\users\user\documents\visual studio 2015\Projects\AthleticClubApp\AthleticClubApp\obj\Debug\AthleticClubApp.pdb
+c:\users\user\documents\visual studio 2015\Projects\AthleticClubApp\AthleticClubApp\obj\Debug\AthleticClubApp.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\AthleticClubApp\AthleticClubApp\obj\Debug\AthleticClubApp.SearchForAthele.resources
+c:\users\user\documents\visual studio 2015\Projects\AthleticClubApp\AthleticClubApp\obj\Debug\AthleticClubApp.AthleticEvent.resources
+c:\users\user\documents\visual studio 2015\Projects\AthleticClubApp\AthleticClubApp\obj\Debug\AthleticClubApp.EventList.resources
+c:\users\user\documents\visual studio 2015\Projects\AthleticClubApp\AthleticClubApp\obj\Debug\AthleticClubApp.Admin.resources
